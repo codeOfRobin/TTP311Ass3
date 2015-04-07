@@ -1,5 +1,5 @@
 function [ dx ] = diffEq( t,x,temp,W0,L0,P0)
- R=1.9858775
+R=1.9858775
 
 dx=zeros(5,1)
 k=zeros(3,1)
